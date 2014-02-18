@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://E:/GitHub/eye/src/main/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://E:/GitHub/eye/src/main/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://E:/GitHub/eye/target/classes" />
+    <output-test url="file://E:/GitHub/eye/target/test-classes" />
+    <content url="file://E:/GitHub/eye">
+      <sourceFolder url="file://E:/GitHub/eye/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://E:/GitHub/eye/src/test/resources" isTestSource="true" />
+      <excludeFolder url="file://E:/GitHub/eye/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.sun.faces:jsf-api:2.1.7" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.faces:jsf-impl:2.1.7" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.6" level="project" />
+    <orderEntry type="library" name="Maven: junit:junit:4.8.2" level="project" />
+  </component>
+</module>
+

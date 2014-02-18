@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="eye:war">
+    <output-path>E:/GitHub/eye/target</output-path>
+    <root id="archive" name="eye.war">
+      <element id="artifact" artifact-name="eye:war exploded" />
+    </root>
+  </artifact>
+</component>
