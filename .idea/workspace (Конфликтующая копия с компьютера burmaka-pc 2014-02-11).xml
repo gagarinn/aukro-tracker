@@ -1,72 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9a9382c-e935-4623-b83d-cc1ccc0967b5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eye.iml" afterPath="$PROJECT_DIR$/eye.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/eye_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/eye_war.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/eye_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/eye_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a9a9382c-e935-4623-b83d-cc1ccc0967b5" name="Default" comment="" />
     <ignored path="eye.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.xhtml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392281318552" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1391976664092" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/misc.xml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1391976571674" ignored="false" />
+    <file path="/index.xhtml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392046917620" ignored="false" />
     <file path="E:/maven/apache-maven-3.0.5/conf/settings.xml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392020549173" ignored="false" />
     <file path="$USER_HOME$/.m2/settings.xml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392020549173" ignored="false" />
-    <file path="$PROJECT_DIR$/../testTom/web/WEB-INF/web.xml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392148416831" ignored="false" />
+    <file path="$PROJECT_DIR$/../testTom/web/WEB-INF/web.xml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392025139531" ignored="false" />
     <file path="$PROJECT_DIR$/../testTom/web/WEB-INF/faces-config.xml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392025139531" ignored="false" />
     <file path="$PROJECT_DIR$/../supplies/src/main/webapp/WEB-INF/faces-config.xml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392043152589" ignored="false" />
     <file path="$PROJECT_DIR$/../supplies/src/main/java/org/victor/test/DBConnectionTest.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392043152589" ignored="false" />
-    <file path="/DBWriting.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392645887231" ignored="false" />
+    <file path="/DBWriting.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392144313659" ignored="false" />
     <file path="/ItemBean.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392060361566" ignored="false" />
-    <file path="/pom.xml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392059266388" ignored="false" />
+    <file path="/pom.xml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392141649944" ignored="false" />
     <file path="$PROJECT_DIR$/../supplies/pom.xml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392059252617" ignored="false" />
-    <file path="$PROJECT_DIR$/../testTom/src/AAA.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392147792113" ignored="false" />
-    <file path="/a.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392105157918" ignored="false" />
-    <file path="/DBConnectionTest.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392648316104" ignored="false" />
-    <file path="/index1.xhtml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392147648871" ignored="false" />
-    <file path="$PROJECT_DIR$/../testTom/web/index.jsp" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392148290968" ignored="false" />
-    <file path="$PROJECT_DIR$/../testTom/web/index.xhtml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392148529256" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/resources/com/tutorialspoint/test/messages_fr.properties" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149017777" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/resources/com/tutorialspoint/test/messages.properties" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149005442" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/webapp/WEB-INF/faces-config.xml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149082572" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/java/com/tutorialspoint/test/UserInter.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149180475" ignored="false" />
-    <file path="/UserInter.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149162090" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/webapp/home_inter.xhtml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149261626" ignored="false" />
-    <file path="/home_inter.xhtml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149243810" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/java/css/test/UserInter.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149631434" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/java/css/test/LocaleChangeListener.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149631434" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/java/css/test/Message.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149631434" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/webapp/homeEvent1.xhtml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149631434" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/java/css/test/UserEventData.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149631434" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/java/css/test/HelloWorld.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149631434" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/java/css/test/NavigationController.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149631434" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/java/css/test/UserActionData.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149631434" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/java/css/test/UserActionListener.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149631434" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/java/css/test/Employee.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149631434" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/java/css/test/UserData.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149631434" ignored="false" />
-    <file path="$PROJECT_DIR$/../helloworld/src/main/webapp/homeAction.xhtml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392149631434" ignored="false" />
-    <file path="/FirstClass.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392464522938" ignored="false" />
-    <file path="/Item.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392464721473" ignored="false" />
-    <file path="/queryURL.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392296339684" ignored="false" />
-    <file path="/Regex.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392299753023" ignored="false" />
-    <file path="/MyRegex.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392661220067" ignored="false" />
-    <file path="/Bider.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392301388187" ignored="false" />
-    <file path="/QueryURL.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392657764132" ignored="false" />
-    <file path="/Bidder.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392463454255" ignored="false" />
-    <file path="/eye.iml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392642464745" ignored="false" />
-    <file path="$PROJECT_DIR$/../stucturetest/stucturetest.iml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392627069377" ignored="false" />
-    <file path="/QueryURLTest.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392656765850" ignored="false" />
-    <file path="/MyRegexTest.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392663106521" ignored="false" />
-    <file path="$PROJECT_DIR$/../comperepic/src/view/MainWin.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392660576783" ignored="false" />
-    <file path="$PROJECT_DIR$/../comperepic/src/xren/TestSwing.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392660576783" ignored="false" />
-    <file path="$PROJECT_DIR$/../comperepic/src/controller/OpenFileAction.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392660576783" ignored="false" />
-    <file path="$PROJECT_DIR$/../comperepic/src/view/MainFrame.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392660576783" ignored="false" />
-    <file path="$PROJECT_DIR$/../comperepic/src/view/PicturePanel.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392660576783" ignored="false" />
-    <file path="/Dummy.txt" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392742361631" ignored="false" />
-    <file path="/fragment.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392663706432" ignored="false" />
+    <file path="/FirstClass.java" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392142188858" ignored="false" />
+    <file path="/eye.iml" changelist="a9a9382c-e935-4623-b83d-cc1ccc0967b5" time="1392144683904" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,12 +27,10 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="E:\Dropbox\java\eye" />
+    <option name="PATCH_PATH" value="" />
   </component>
   <component name="DaemonCodeAnalyzer">
-    <disable_hints>
-      <file url="file://$PROJECT_DIR$/src/test/dao/DBConnectionTest.java" />
-    </disable_hints>
+    <disable_hints />
   </component>
   <component name="DebuggerManager">
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
@@ -129,55 +79,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="29" selection-start="1222" selection-end="1222" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.xhtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/index.xhtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="80" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/database.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBConnectionTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/DBConnectionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="91" column="38" selection-start="2292" selection-end="2292" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="FirstClass.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/aukroview/FirstClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBWriting.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/aukroview/dao/DBWriting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="52" selection-start="773" selection-end="773" vertical-scroll-proportion="0.44476745">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3304#3310#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="eye.ipr" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eye.ipr">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QueryURLTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/controller/QueryURLTest.java">
+      <file leaf-file-name="eye.iws" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eye.iws">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="0" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Item.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/aukroview/model/Item.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="66" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bidder.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/aukroview/model/Bidder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="39" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyRegexTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/controller/MyRegexTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="2" selection-start="1491" selection-end="1491" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QueryURL.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/aukroview/controller/QueryURL.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="33" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -186,34 +161,18 @@
       <file leaf-file-name="ItemBean.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/aukroview/bean/ItemBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="36" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="21" column="4" selection-start="495" selection-end="495" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="eye.iml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="eye.iml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eye.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="62" selection-start="1223" selection-end="1223" vertical-scroll-proportion="0.8551308">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DBConnectionTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/dao/DBConnectionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="34" selection-start="598" selection-end="1196" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyRegex.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/aukroview/controller/MyRegex.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="74" selection-start="1204" selection-end="1204" vertical-scroll-proportion="0.0">
+            <state line="18" column="58" selection-start="855" selection-end="855" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -226,37 +185,25 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitLogSettings">
-    <option name="myDateState">
-      <MyDateState />
-    </option>
-  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/webapp/pages/index.xhtml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/test/dao/DBConnectionTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/css/styles.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/aukro/view/FirstClass.java" />
+        <option value="$PROJECT_DIR$/src/main/aukro/view/model/Item.java" />
+        <option value="$PROJECT_DIR$/src/main/aukro/view/bean/ItemBean.java" />
+        <option value="$PROJECT_DIR$/src/main/aukro/view/dao/DBWriting.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/pages/index.xhtml" />
-        <option value="$PROJECT_DIR$/src/main/aukroview/controller/queryURL.java" />
-        <option value="$PROJECT_DIR$/src/main/aukroview/controller/Regex.java" />
-        <option value="$PROJECT_DIR$/src/main/aukroview/model/Bider.java" />
-        <option value="$PROJECT_DIR$/src/main/aukroview/model/Bidder.java" />
-        <option value="$PROJECT_DIR$/src/main/aukroview/FirstClass.java" />
         <option value="$PROJECT_DIR$/src/main/aukroview/model/Item.java" />
-        <option value="$PROJECT_DIR$/src/main/aukroview/dao/DBWriting.java" />
-        <option value="$PROJECT_DIR$/src/test/dao/DBConnectionTest.java" />
-        <option value="$PROJECT_DIR$/src/test/controller/QueryURLTest.java" />
-        <option value="$PROJECT_DIR$/src/main/aukroview/controller/QueryURL.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/testpage.html" />
-        <option value="$PROJECT_DIR$/src/main/aukroview/controller/MyRegex.java" />
-        <option value="$PROJECT_DIR$/src/test/controller/MyRegexTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/DBConnectionTest.java" />
         <option value="$PROJECT_DIR$/eye.iml" />
+        <option value="$PROJECT_DIR$/src/main/aukroview/bean/ItemBean.java" />
+        <option value="$PROJECT_DIR$/src/main/aukroview/FirstClass.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/aukroview/dao/DBWriting.java" />
       </list>
     </option>
   </component>
@@ -268,10 +215,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="876" />
+    <option name="x" value="315" />
+    <option name="y" value="258" />
+    <option name="width" value="1248" />
+    <option name="height" value="858" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -292,7 +239,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -321,6 +268,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -339,7 +287,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="aukro-tracker" />
+              <option name="myItemId" value="eye" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -349,13 +297,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="aukro-tracker" />
+              <option name="myItemId" value="eye" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -363,7 +315,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="aukro-tracker" />
+              <option name="myItemId" value="eye" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -375,9 +327,30 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aukroview" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -387,54 +360,36 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.lastSelected" value="http.proxy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../supplies" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Dropbox\java\eye\src" />
+      <recent name="E:\Dropbox\java\eye" />
       <recent name="E:\Dropbox\java\eye\src\main" />
       <recent name="E:\Dropbox\java\eye\src\main\webapp\pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Dropbox\java\eye\src" />
-      <recent name="E:\Dropbox\java\eye\src\main\resources\aukroview" />
       <recent name="E:\Dropbox\java\eye\src\main\resources" />
       <recent name="E:\Dropbox\java\eye" />
       <recent name="E:\Dropbox\java\eye\src\main\webapp\pages" />
+      <recent name="E:\Dropbox\java\eye\src\main" />
+      <recent name="E:\Dropbox\java\eye\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MyRegexTest">
-    <configuration default="false" name="FirstClass" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="aukroview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="aukroview.FirstClass" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="eye" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0">
     <configuration default="false" name="DBConnectionTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -445,8 +400,8 @@
       <module name="eye" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="dao" />
-      <option name="MAIN_CLASS_NAME" value="dao.DBConnectionTest" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.DBConnectionTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -469,58 +424,19 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="MyRegexTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="eye" />
+    <configuration default="false" name="FirstClass" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="FirstClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="controller" />
-      <option name="MAIN_CLASS_NAME" value="controller.MyRegexTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="QueryURLTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <module name="eye" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="controller" />
-      <option name="MAIN_CLASS_NAME" value="controller.QueryURLTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
       <envs />
-      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -704,44 +620,15 @@
         </option>
       </method>
     </configuration>
-    <configuration default="false" name="All in eye" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="eye" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/src/test" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <list size="6">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7.0" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.All in eye" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.DBConnectionTest" />
       <item index="2" class="java.lang.String" itemvalue="Application.FirstClass" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.DBConnectionTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.MyRegexTest" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.QueryURLTest" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.MyRegexTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.QueryURLTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.DBConnectionTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FirstClass" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FirstClass" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Application.FirstClass" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DBConnectionTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -776,13 +663,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="1" />
+    <frame x="315" y="258" width="1248" height="858" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904148" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39888424" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -791,7 +679,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32664436" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32775453" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -799,13 +687,12 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904148" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20588236" sideWeight="0.7587169" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24128312" sideWeight="0.99761146" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14839798" sideWeight="0.57796854" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39914164" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42203146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39888424" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -873,111 +760,109 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/aukroview/bean/ItemBean.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="36" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="24" selection-start="14" selection-end="35" vertical-scroll-proportion="0.07906977" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/aukroview/controller/MyRegex.java">
+    <entry file="file://$PROJECT_DIR$/../supplies/src/main/java/org/victor/model/Goods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="74" selection-start="1204" selection-end="1204" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/aukroview/bean/ItemBean.java">
+    <entry file="file://$PROJECT_DIR$/../supplies/src/main/webapp/pages/supplies.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="36" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="37" column="76" selection-start="1172" selection-end="1172" vertical-scroll-proportion="0.1859375" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/dao/DBConnectionTest.java">
+    <entry file="file://$PROJECT_DIR$/../supplies/src/main/java/org/victor/beans/SuppliesBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="34" selection-start="598" selection-end="1196" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="49" column="29" selection-start="2099" selection-end="2119" vertical-scroll-proportion="0.22141823" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/pages/index.xhtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="30" selection-start="744" selection-end="744" vertical-scroll-proportion="0.43001688" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/aukroview/dao/DBWriting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="39" selection-start="4096" selection-end="4096" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/aukroview/FirstClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0">
+        <state line="7" column="80" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/aukroview/controller/QueryURL.java">
+    <entry file="file://$PROJECT_DIR$/src/resources/database.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="33" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/aukroview/bean/ItemBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="36" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/aukroview/model/Item.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="66" selection-start="1406" selection-end="1406" vertical-scroll-proportion="0.0">
+        <state line="2" column="10" selection-start="29" selection-end="29" vertical-scroll-proportion="0.05052006">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/aukroview/model/Bidder.java">
+    <entry file="file://$PROJECT_DIR$/src/main/aukroview/bean/ItemBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="39" selection-start="513" selection-end="513" vertical-scroll-proportion="0.0">
+        <state line="21" column="4" selection-start="495" selection-end="495" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/aukroview/FirstClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eye.ipr">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/dao/DBConnectionTest.java">
+    <entry file="file://$PROJECT_DIR$/eye.iws">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="34" selection-start="598" selection-end="1196" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/aukroview/controller/MyRegex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="74" selection-start="1204" selection-end="1204" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/controller/QueryURLTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/controller/MyRegexTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="2" selection-start="1491" selection-end="1491" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eye.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="62" selection-start="1223" selection-end="1223" vertical-scroll-proportion="0.8551308">
+        <state line="18" column="58" selection-start="855" selection-end="855" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="29" selection-start="1222" selection-end="1222" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/DBConnectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="38" selection-start="2292" selection-end="2292" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/aukroview/dao/DBWriting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="52" selection-start="773" selection-end="773" vertical-scroll-proportion="0.44476745">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3304#3310#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1040,6 +925,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

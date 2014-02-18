@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  User: vvvv
+  Date: 14.06.13
+
+
+  -->
+<!--<sourceFolder url="file://$MODULE_DIR$/resources" isTestSource="false" />-->
+<!DOCTYPE html
+        PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core">
+
+<h:head>
+    <title>SSSSSSSSSSSSSSSSSSSSSSSSSSSS</title>
+    <!--<link rel="stylesheet" type="text/css" href="css/styles.css" />-->
+    <!--<link href="${facesContext.externalContext.requestContextPath}/css/styles.css" rel="stylesheet" type="text/css"/>  -->
+
+</h:head>
+
+<h:body class ="homePage">
+
+    <h:dataTable>
+        <h:column><f:facet name="header"><h:outputText value = "URL:" /></f:facet></h:column>
+        <h:column>
+            <f:facet name="header"><h:inputText name = "searchurl" value="input url here" /></f:facet></h:column>
+        <h:column><f:facet name="header"><h:commandButton action="dosearch" value="Butttton"/></f:facet></h:column>
+
+ </h:dataTable>
+    <hr/>
+
+    <!--
+<h:form>
+<h:commandButton action="goods" value="#{messages.indexGoodsButton}"/>
+<h:commandButton action="suppliers" value="#{messages.indexSuppliersButton}"/>
+<h:commandButton action="supplies" value="#{messages.indexSuppliesButton}"/>
+</h:form> -->
+
+
+ </h:body>
+
+ </html>

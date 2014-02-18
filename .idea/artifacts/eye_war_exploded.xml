@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="eye:war exploded">
-    <output-path>E:/GitHub/eye/target/eye</output-path>
+    <output-path>$PROJECT_DIR$/target/eye</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="eye/web/Web" />
       <element id="directory" name="WEB-INF">
